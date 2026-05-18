@@ -1,0 +1,85 @@
+============================================================
+STATISTIQUES SCRAPING COMMENTAIRES DARIJA
+============================================================
+
+Nombre de vidéos: 13
+Commentaires LOVE (amour/admiration): 257
+Commentaires POSITIVE (compliment): 1299
+
+TYPES LOVE:
+----------------------------------------
+  word: 137
+  darija: 58
+  arabic: 51
+  expression: 7
+  french: 4
+
+TYPES POSITIVE:
+----------------------------------------
+  expression: 917
+  darija: 253
+  arabic: 76
+  word: 31
+  french: 22
+
+TOP KEYWORDS LOVE:
+----------------------------------------
+  حبيبتي: 69
+  حبي: 54
+  الحب: 23
+  حياتي: 19
+  نحبك: 12
+  قلبي: 11
+  كنبغيك: 10
+  غالي: 9
+  عيني: 9
+  عمري: 9
+  غرام: 4
+  أحبك: 4
+  مشتاق: 4
+  عشاق: 3
+  ma chérie: 3
+  عاشق: 2
+  بغيتك: 2
+  نبغيك: 2
+  حبيبي: 2
+  نموت عليك: 1
+
+TOP KEYWORDS POSITIVE:
+----------------------------------------
+  تبارك الله: 235
+  مبروك: 171
+  شكرا: 136
+  زوين: 98
+  ماشاء الله: 95
+  الله يعطيك الصحة: 90
+  واعر: 43
+  غزالة: 40
+  رائع: 37
+  ما شاء الله: 35
+  فنة: 33
+  الله يكمل بالخير: 27
+  روعة: 19
+  كتحمق: 18
+  الله يحفظك: 16
+  مزيان: 16
+  مبارك: 15
+  جميل: 14
+  عزيزة: 11
+  عجبني: 11
+
+PAR VIDÉO:
+----------------------------------------
+  -1zlgFgWyiI: LOVE=4, POSITIVE=46
+  TLf7wGzmQ1w: LOVE=17, POSITIVE=186
+  L_MKlTeZdl0: LOVE=12, POSITIVE=62
+  b0DdeofxFoc: LOVE=8, POSITIVE=82
+  FbxJsCGKeho: LOVE=23, POSITIVE=156
+  c2tvGA9BDQ4: LOVE=10, POSITIVE=105
+  hgvgxiEA7vQ: LOVE=33, POSITIVE=227
+  21Z-LDGVZ2w: LOVE=14, POSITIVE=13
+  AwoKr-IMu_g: LOVE=31, POSITIVE=115
+  Ytm_ySdHkCk: LOVE=54, POSITIVE=166
+  i3dZPHMsV_s: LOVE=41, POSITIVE=130
+  SLw4ZszmOow: LOVE=10, POSITIVE=11
+  98ytd2WQ0k498ytd2WQ0k48xGSctgALTk2VIOv5aGqN0: LOVE=0, POSITIVE=0

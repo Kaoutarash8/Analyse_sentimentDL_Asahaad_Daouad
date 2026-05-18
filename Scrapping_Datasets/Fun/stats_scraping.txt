@@ -1,0 +1,56 @@
+============================================================
+STATISTIQUES SCRAPING COMMENTAIRES COMIQUES DARIJA
+============================================================
+
+Nombre total de vidéos: 13
+Total commentaires comiques: 7407
+Total commentaires non comiques: 14077
+Taux de comiques: 34.5%
+
+PAR VIDÉO:
+----------------------------------------
+  WEeqhi766cA: 752/2000 (37.6% comiques)
+  OsxcmqyAUNc: 631/2000 (31.6% comiques)
+  zM4ArkA5sF0: 681/2000 (34.1% comiques)
+  NagPR4sIMog: 690/2000 (34.5% comiques)
+  mOsxCje8Mzk: 851/2000 (42.5% comiques)
+  7qakRzAcTNU: 404/2000 (20.2% comiques)
+  5K_1lDVuXX4: 536/2000 (26.8% comiques)
+  P2e_ZiP8CCc: 595/2000 (29.8% comiques)
+  NJ7MsraapQw: 300/995 (30.2% comiques)
+  nryWLjukyY4: 64/172 (37.2% comiques)
+  TUaGzqVf2iY: 730/2000 (36.5% comiques)
+  pwEC0LgHMW4: 157/317 (49.5% comiques)
+  oaTB3dRg0P0: 1016/2000 (50.8% comiques)
+
+TOP KEYWORDS DÉTECTÉS:
+----------------------------------------
+  emojis_rire(😂): 521
+  emojis_rire(😂😂😂): 495
+  emojis_rire(😂😂): 386
+  emojis_rire(😂😂😂😂): 359
+  ضحك: 348
+  emojis_rire(😂😂😂😂😂): 286
+  rires_arabe(ههههه): 254
+  rires_arabe(هههه): 240
+  rires_arabe(هههههه): 212
+  emojis_rire(😂😂😂😂😂😂): 210
+  rires_arabe(ههههههه): 166
+  rires_arabe(هههههههه): 150
+  rires_lettres(hhhhh): 149
+  rires_lettres(hhhh): 145
+  rires_arabe(ههه): 135
+  emojis_rire(😂😂😂😂😂😂😂): 134
+  rires_arabe(هههههههههه): 125
+  rires_lettres(hhh): 120
+  rires_lettres(hhhhhh): 116
+  rires_arabe(ههههههههه): 108
+
+DÉTECTION PAR TYPE DE PATTERN:
+----------------------------------------
+  emojis_rire: 3968
+  rires_arabe: 1956
+  rires_lettres: 965
+  rires_haha: 78
+  mourir_rire: 9
+  rires_anglais: 4

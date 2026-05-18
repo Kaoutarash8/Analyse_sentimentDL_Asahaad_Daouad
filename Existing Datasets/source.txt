@@ -1,0 +1,10 @@
+https://huggingface.co/datasets/ohidaoui/darija-reviews
+Moroccan_Dialectal_Reviews_dataset.csv----->https://data.mendeley.com/datasets/r2kvcmbn6p/2/files/f9928529-af1c-4ac9-9f7d-6ce8179a3af5
+
+MAClexicon.csv---->https://github.com/LeMGarouani/MAC/blob/main/MAC%20lexicon.xlsx
+Covide_dataset.csv ------>https://github.com/fati-bendaouch/Sentiment-Analysis-for-Moroccan-Dialect/blob/main/Final_Data.xlsx
+
+MAC corpus.csv----->https://github.com/LeMGarouani/MAC
+
+https://github.com/MoroccoAI/Arabic-Darija-NLP-Resources?tab=readme-ov-file
+https://github.com/belhayani/darija-sentiment-datasets?tab=readme-ov-file
