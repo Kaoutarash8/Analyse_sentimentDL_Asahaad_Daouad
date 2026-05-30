@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+darija_bert_model/model.safetensors
